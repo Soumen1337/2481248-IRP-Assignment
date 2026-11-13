@@ -48,7 +48,7 @@ The included local Git history has meaningful commits and a feature branch
 merged into `main`. To publish the project, confirm that the supplied GitHub
 repository exists, then connect and push:
 ```bash
-git remote add origin https://github.com/Soumen1337/2481026-IRP-Assignment.git
+git remote add origin https://github.com/Soumen1337/2481248-IRP-Assignment.git
 git push -u origin main
 ```
 A successful remote push is not represented by the local Git history.

@@ -1,9 +1,5 @@
 # Placement Readiness Tracker
 
-**Industry Readiness Programme-II (CSE2596) — Assessment 4**  
-**Author:** Soumen Kumar Dutta  
-**URN:** 2481248
-
 ## Purpose
 A Python command-line tool that records aptitude, verbal and coding practice
 scores, calculates averages and grades, finds the top scorer, and flags
